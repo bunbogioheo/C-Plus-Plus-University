@@ -1,0 +1,1 @@
+   // XuatThongTin(a,n);

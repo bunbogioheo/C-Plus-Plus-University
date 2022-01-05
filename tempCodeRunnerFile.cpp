@@ -1,1 +1,1 @@
-   // XuatThongTin(a,n);
+void NhapThongTin(int a[],int n);
